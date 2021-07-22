@@ -1,0 +1,16 @@
+/root/programming/DOTNET/hello/bin/Debug/net5.0/hello
+/root/programming/DOTNET/hello/bin/Debug/net5.0/hello.deps.json
+/root/programming/DOTNET/hello/bin/Debug/net5.0/hello.runtimeconfig.json
+/root/programming/DOTNET/hello/bin/Debug/net5.0/hello.runtimeconfig.dev.json
+/root/programming/DOTNET/hello/bin/Debug/net5.0/hello.dll
+/root/programming/DOTNET/hello/bin/Debug/net5.0/ref/hello.dll
+/root/programming/DOTNET/hello/bin/Debug/net5.0/hello.pdb
+/root/programming/DOTNET/hello/obj/Debug/net5.0/hello.csproj.AssemblyReference.cache
+/root/programming/DOTNET/hello/obj/Debug/net5.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/hello/obj/Debug/net5.0/hello.AssemblyInfoInputs.cache
+/root/programming/DOTNET/hello/obj/Debug/net5.0/hello.AssemblyInfo.cs
+/root/programming/DOTNET/hello/obj/Debug/net5.0/hello.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/hello/obj/Debug/net5.0/hello.dll
+/root/programming/DOTNET/hello/obj/Debug/net5.0/ref/hello.dll
+/root/programming/DOTNET/hello/obj/Debug/net5.0/hello.pdb
+/root/programming/DOTNET/hello/obj/Debug/net5.0/hello.genruntimeconfig.cache
