@@ -1,0 +1,16 @@
+/root/programming/DOTNET/vars/bin/Debug/net5.0/vars
+/root/programming/DOTNET/vars/bin/Debug/net5.0/vars.deps.json
+/root/programming/DOTNET/vars/bin/Debug/net5.0/vars.runtimeconfig.json
+/root/programming/DOTNET/vars/bin/Debug/net5.0/vars.runtimeconfig.dev.json
+/root/programming/DOTNET/vars/bin/Debug/net5.0/vars.dll
+/root/programming/DOTNET/vars/bin/Debug/net5.0/ref/vars.dll
+/root/programming/DOTNET/vars/bin/Debug/net5.0/vars.pdb
+/root/programming/DOTNET/vars/obj/Debug/net5.0/vars.csproj.AssemblyReference.cache
+/root/programming/DOTNET/vars/obj/Debug/net5.0/vars.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/vars/obj/Debug/net5.0/vars.AssemblyInfoInputs.cache
+/root/programming/DOTNET/vars/obj/Debug/net5.0/vars.AssemblyInfo.cs
+/root/programming/DOTNET/vars/obj/Debug/net5.0/vars.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/vars/obj/Debug/net5.0/vars.dll
+/root/programming/DOTNET/vars/obj/Debug/net5.0/ref/vars.dll
+/root/programming/DOTNET/vars/obj/Debug/net5.0/vars.pdb
+/root/programming/DOTNET/vars/obj/Debug/net5.0/vars.genruntimeconfig.cache
