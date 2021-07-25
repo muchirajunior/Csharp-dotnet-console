@@ -1,0 +1,16 @@
+/root/programming/DOTNET/advanceoperators/bin/Debug/net5.0/advanceoperators
+/root/programming/DOTNET/advanceoperators/bin/Debug/net5.0/advanceoperators.deps.json
+/root/programming/DOTNET/advanceoperators/bin/Debug/net5.0/advanceoperators.runtimeconfig.json
+/root/programming/DOTNET/advanceoperators/bin/Debug/net5.0/advanceoperators.runtimeconfig.dev.json
+/root/programming/DOTNET/advanceoperators/bin/Debug/net5.0/advanceoperators.dll
+/root/programming/DOTNET/advanceoperators/bin/Debug/net5.0/ref/advanceoperators.dll
+/root/programming/DOTNET/advanceoperators/bin/Debug/net5.0/advanceoperators.pdb
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/advanceoperators.csproj.AssemblyReference.cache
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/advanceoperators.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/advanceoperators.AssemblyInfoInputs.cache
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/advanceoperators.AssemblyInfo.cs
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/advanceoperators.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/advanceoperators.dll
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/ref/advanceoperators.dll
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/advanceoperators.pdb
+/root/programming/DOTNET/advanceoperators/obj/Debug/net5.0/advanceoperators.genruntimeconfig.cache
