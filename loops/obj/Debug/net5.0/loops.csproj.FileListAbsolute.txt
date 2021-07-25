@@ -1,0 +1,16 @@
+/root/programming/DOTNET/loops/bin/Debug/net5.0/loops
+/root/programming/DOTNET/loops/bin/Debug/net5.0/loops.deps.json
+/root/programming/DOTNET/loops/bin/Debug/net5.0/loops.runtimeconfig.json
+/root/programming/DOTNET/loops/bin/Debug/net5.0/loops.runtimeconfig.dev.json
+/root/programming/DOTNET/loops/bin/Debug/net5.0/loops.dll
+/root/programming/DOTNET/loops/bin/Debug/net5.0/ref/loops.dll
+/root/programming/DOTNET/loops/bin/Debug/net5.0/loops.pdb
+/root/programming/DOTNET/loops/obj/Debug/net5.0/loops.csproj.AssemblyReference.cache
+/root/programming/DOTNET/loops/obj/Debug/net5.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/loops/obj/Debug/net5.0/loops.AssemblyInfoInputs.cache
+/root/programming/DOTNET/loops/obj/Debug/net5.0/loops.AssemblyInfo.cs
+/root/programming/DOTNET/loops/obj/Debug/net5.0/loops.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/loops/obj/Debug/net5.0/loops.dll
+/root/programming/DOTNET/loops/obj/Debug/net5.0/ref/loops.dll
+/root/programming/DOTNET/loops/obj/Debug/net5.0/loops.pdb
+/root/programming/DOTNET/loops/obj/Debug/net5.0/loops.genruntimeconfig.cache
