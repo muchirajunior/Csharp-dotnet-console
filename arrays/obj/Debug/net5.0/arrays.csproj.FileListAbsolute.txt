@@ -1,0 +1,16 @@
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/arrays.csproj.AssemblyReference.cache
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/arrays.AssemblyInfoInputs.cache
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/arrays.AssemblyInfo.cs
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/arrays.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/arrays/bin/Debug/net5.0/arrays
+/root/programming/DOTNET/arrays/bin/Debug/net5.0/arrays.deps.json
+/root/programming/DOTNET/arrays/bin/Debug/net5.0/arrays.runtimeconfig.json
+/root/programming/DOTNET/arrays/bin/Debug/net5.0/arrays.runtimeconfig.dev.json
+/root/programming/DOTNET/arrays/bin/Debug/net5.0/arrays.dll
+/root/programming/DOTNET/arrays/bin/Debug/net5.0/ref/arrays.dll
+/root/programming/DOTNET/arrays/bin/Debug/net5.0/arrays.pdb
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/arrays.dll
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/ref/arrays.dll
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/arrays.pdb
+/root/programming/DOTNET/arrays/obj/Debug/net5.0/arrays.genruntimeconfig.cache
