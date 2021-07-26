@@ -1,0 +1,16 @@
+/root/programming/DOTNET/classes/bin/Debug/net5.0/classes
+/root/programming/DOTNET/classes/bin/Debug/net5.0/classes.deps.json
+/root/programming/DOTNET/classes/bin/Debug/net5.0/classes.runtimeconfig.json
+/root/programming/DOTNET/classes/bin/Debug/net5.0/classes.runtimeconfig.dev.json
+/root/programming/DOTNET/classes/bin/Debug/net5.0/classes.dll
+/root/programming/DOTNET/classes/bin/Debug/net5.0/ref/classes.dll
+/root/programming/DOTNET/classes/bin/Debug/net5.0/classes.pdb
+/root/programming/DOTNET/classes/obj/Debug/net5.0/classes.csproj.AssemblyReference.cache
+/root/programming/DOTNET/classes/obj/Debug/net5.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/classes/obj/Debug/net5.0/classes.AssemblyInfoInputs.cache
+/root/programming/DOTNET/classes/obj/Debug/net5.0/classes.AssemblyInfo.cs
+/root/programming/DOTNET/classes/obj/Debug/net5.0/classes.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/classes/obj/Debug/net5.0/classes.dll
+/root/programming/DOTNET/classes/obj/Debug/net5.0/ref/classes.dll
+/root/programming/DOTNET/classes/obj/Debug/net5.0/classes.pdb
+/root/programming/DOTNET/classes/obj/Debug/net5.0/classes.genruntimeconfig.cache
