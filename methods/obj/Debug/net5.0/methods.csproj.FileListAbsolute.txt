@@ -1,0 +1,16 @@
+/root/programming/DOTNET/methods/obj/Debug/net5.0/methods.csproj.AssemblyReference.cache
+/root/programming/DOTNET/methods/obj/Debug/net5.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/methods/obj/Debug/net5.0/methods.AssemblyInfoInputs.cache
+/root/programming/DOTNET/methods/obj/Debug/net5.0/methods.AssemblyInfo.cs
+/root/programming/DOTNET/methods/obj/Debug/net5.0/methods.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/methods/bin/Debug/net5.0/methods
+/root/programming/DOTNET/methods/bin/Debug/net5.0/methods.deps.json
+/root/programming/DOTNET/methods/bin/Debug/net5.0/methods.runtimeconfig.json
+/root/programming/DOTNET/methods/bin/Debug/net5.0/methods.runtimeconfig.dev.json
+/root/programming/DOTNET/methods/bin/Debug/net5.0/methods.dll
+/root/programming/DOTNET/methods/bin/Debug/net5.0/ref/methods.dll
+/root/programming/DOTNET/methods/bin/Debug/net5.0/methods.pdb
+/root/programming/DOTNET/methods/obj/Debug/net5.0/methods.dll
+/root/programming/DOTNET/methods/obj/Debug/net5.0/ref/methods.dll
+/root/programming/DOTNET/methods/obj/Debug/net5.0/methods.pdb
+/root/programming/DOTNET/methods/obj/Debug/net5.0/methods.genruntimeconfig.cache
