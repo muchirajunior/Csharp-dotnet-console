@@ -1,0 +1,16 @@
+/root/programming/DOTNET/linq/obj/Debug/net5.0/linq.csproj.AssemblyReference.cache
+/root/programming/DOTNET/linq/obj/Debug/net5.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/linq/obj/Debug/net5.0/linq.AssemblyInfoInputs.cache
+/root/programming/DOTNET/linq/obj/Debug/net5.0/linq.AssemblyInfo.cs
+/root/programming/DOTNET/linq/obj/Debug/net5.0/linq.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/linq/bin/Debug/net5.0/linq
+/root/programming/DOTNET/linq/bin/Debug/net5.0/linq.deps.json
+/root/programming/DOTNET/linq/bin/Debug/net5.0/linq.runtimeconfig.json
+/root/programming/DOTNET/linq/bin/Debug/net5.0/linq.runtimeconfig.dev.json
+/root/programming/DOTNET/linq/bin/Debug/net5.0/linq.dll
+/root/programming/DOTNET/linq/bin/Debug/net5.0/ref/linq.dll
+/root/programming/DOTNET/linq/bin/Debug/net5.0/linq.pdb
+/root/programming/DOTNET/linq/obj/Debug/net5.0/linq.dll
+/root/programming/DOTNET/linq/obj/Debug/net5.0/ref/linq.dll
+/root/programming/DOTNET/linq/obj/Debug/net5.0/linq.pdb
+/root/programming/DOTNET/linq/obj/Debug/net5.0/linq.genruntimeconfig.cache
