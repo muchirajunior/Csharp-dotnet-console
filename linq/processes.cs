@@ -27,9 +27,11 @@ namespace linq{
 
         }
 
+        Action<int> method = (int numb) => Console.WriteLine($"The number: {numb}");
+
         public void methodSyntax(){
             var query= numbers.Where(obj => obj>3);
-
+            query.ToList().ForEach(method);
             foreach (var item in query) Console.WriteLine("The number : {0}",item);
            
         }
@@ -42,8 +44,8 @@ namespace linq{
 
         public void queryperson(){
             IEnumerable<Person> query= from obj in people 
-                                        where obj.id>0 
-                                        select obj;
+                                        // where obj.id>0 
+                                        select obj.name;
 
             foreach (var item in query)
                    Console.WriteLine("Person id is {0} and name is {1}",item.id, item.name);
