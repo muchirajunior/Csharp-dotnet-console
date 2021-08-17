@@ -11,6 +11,7 @@ namespace linq
            query.querySyntax();
            query.methodSyntax();
            query.mixedSyntax();
+            query.orderby();
            query.queryperson();
            query.methodemployee();
         }

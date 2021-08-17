@@ -35,12 +35,21 @@ namespace linq{
             foreach (var item in query) Console.WriteLine("The number : {0}",item);
            
         }
+      
+      
 
         public void mixedSyntax(){
             var sum= (from obj in numbers select obj).Sum();
             var maximum= (from obj in numbers select obj).Max();
             Console.WriteLine("the sum is : {0} , and the maximum no is : {1}",sum,maximum);
         }
+      
+      public void orderby(){
+		int[] array={5,7,2,4,3,9};
+		var query=array.OrderBy(num => num).ToList();
+		foreach (var item in query)
+			Console.WriteLine(item);
+      }
 
         public void queryperson(){
             IEnumerable<Person> query= from obj in people 
