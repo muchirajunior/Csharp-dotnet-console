@@ -56,15 +56,15 @@ namespace linq{
 			Console.WriteLine(item);
       }
 
-        // public void queryperson(){
-        //     IEnumerable<Person> query= from obj in people 
-        //                                 // where obj.id>0 
-        //                                 select obj.name;
+        public void queryperson(){
+            IEnumerable<Person> query= from obj in people 
+                                        where obj.id>0 
+                                        select obj;
 
-        //     foreach (var item in query)
-        //            Console.WriteLine("Person id is {0} and name is {1}",item.id, item.name);
+            foreach (var item in query)
+                   Console.WriteLine("Person id is {0} and name is {1}",item.id, item.name);
           
-        // }
+        }
 
         public void methodemployee(){
             IQueryable<Employee> query=employees.AsQueryable();//.Where(obj => obj.id>0);
@@ -75,8 +75,10 @@ namespace linq{
         }
 
         public void queryProducts(){
-            var query= products.Where((item)=>item.id==2).ToList();
-            Console.WriteLine(query[0].price);
+            var query= products.Where((item)=>item.id==1).ToList()[0];
+            int x='B';
+            Console.WriteLine(x);
+              Console.WriteLine("id :{0} name: {1} price : {2}  ", query.id, query.name, query.price);
         }
     }
 }
