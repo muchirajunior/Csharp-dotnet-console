@@ -1,0 +1,16 @@
+/root/programming/DOTNET/advancedqueries/bin/Debug/net5.0/advancedqueries
+/root/programming/DOTNET/advancedqueries/bin/Debug/net5.0/advancedqueries.deps.json
+/root/programming/DOTNET/advancedqueries/bin/Debug/net5.0/advancedqueries.runtimeconfig.json
+/root/programming/DOTNET/advancedqueries/bin/Debug/net5.0/advancedqueries.runtimeconfig.dev.json
+/root/programming/DOTNET/advancedqueries/bin/Debug/net5.0/advancedqueries.dll
+/root/programming/DOTNET/advancedqueries/bin/Debug/net5.0/ref/advancedqueries.dll
+/root/programming/DOTNET/advancedqueries/bin/Debug/net5.0/advancedqueries.pdb
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/advancedqueries.csproj.AssemblyReference.cache
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/advancedqueries.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/advancedqueries.AssemblyInfoInputs.cache
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/advancedqueries.AssemblyInfo.cs
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/advancedqueries.csproj.CoreCompileInputs.cache
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/advancedqueries.dll
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/ref/advancedqueries.dll
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/advancedqueries.pdb
+/root/programming/DOTNET/advancedqueries/obj/Debug/net5.0/advancedqueries.genruntimeconfig.cache
